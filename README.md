@@ -1,5 +1,5 @@
-# AI-programming-1-a
-京都情報大学院大学の人工知能プログラミング１（a）秋学期の授業リポジトリ
+# Calculator
+電卓
 
 ## ソフトのインストール
 `Python 3.6`<br/> `Jupyter Notebook` <br/> `Google Colaboratory`
